@@ -1,0 +1,15 @@
+D:\HomeWork9\Task47\bin\Debug\net7.0\Task47.exe
+D:\HomeWork9\Task47\bin\Debug\net7.0\Task47.deps.json
+D:\HomeWork9\Task47\bin\Debug\net7.0\Task47.runtimeconfig.json
+D:\HomeWork9\Task47\bin\Debug\net7.0\Task47.dll
+D:\HomeWork9\Task47\bin\Debug\net7.0\Task47.pdb
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.csproj.AssemblyReference.cache
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.AssemblyInfoInputs.cache
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.AssemblyInfo.cs
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.csproj.CoreCompileInputs.cache
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.dll
+D:\HomeWork9\Task47\obj\Debug\net7.0\refint\Task47.dll
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.pdb
+D:\HomeWork9\Task47\obj\Debug\net7.0\Task47.genruntimeconfig.cache
+D:\HomeWork9\Task47\obj\Debug\net7.0\ref\Task47.dll
